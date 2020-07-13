@@ -1,0 +1,200 @@
+.gdi{
+background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
+	background-size:cover;
+	background-position : center;
+	padding: 279px;
+	
+}
+.gdia{
+background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
+	background-size: cover;
+    background-position: center;
+    padding: 279px;
+    height: 137px;
+
+}
+
+
+.gdib{
+background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
+	background-size: cover;
+    background-position: center;
+    padding: 279px;
+    height: 137px;
+
+}
+
+
+.gdic{
+background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
+	background-size: cover;
+    background-position: center;
+    padding: 279px;
+    height: 137px;
+
+}
+
+.gdid{
+background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
+	background-size: cover;
+    background-position: center;
+    padding: 279px;
+    height: 137px;
+
+}
+
+ *{
+padding: 0;
+margin: 0;
+}
+
+.gdie{
+background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
+	background-size: cover;
+    background-position: center;
+    padding: 279px;
+    height: 137px;
+
+}
+
+ 
+
+
+h1{
+	text-align: center;
+	position: relative ;
+	top: -230px
+	
+
+}
+
+
+#gdi1{
+	text-align: center;
+	position: relative ;
+	top: 100px
+}
+
+
+#gdi2{
+	text-aslign: center;
+	position: relative ;
+	top: 150px
+}
+
+#btn{
+    position: relative;
+    top: 215px;
+    left: 353px;
+    border: none;
+    color: green;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+#btn:hover {
+ 	background-color: #4CAF50;
+	color: #83b0c3;
+}
+
+
+#d{position: relative;
+    top: 216px;
+    left: 275px;
+    position: relative;
+    border: none;
+    color: green;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+#btn:hover {
+ 	background-color: #4CAF50;
+	color: #83b0c3;
+}
+
+
+#b{
+	position: relative;
+	top: 101px;
+    left: 13%;
+  	position: relative;
+    border: none;
+    color: green;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+#b:hover {
+ 	background-color: #4CAF50;
+	color: #83b0c3;
+}
+
+
+
+#c{
+    position: relative;
+    top: 99px;
+	left: 63%;
+    position: relative;
+    border: none;
+    color: green;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+#c:hover {
+ 	background-color: #4CAF50;
+	color: #83b0c3;
+}
+   }
+
+
+.buttonn {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+footer{
+	font-family: 'Nunito Sans', sans-serif;
+	text-align: center;
+	border-style: solid;
+	border-color: #212F3C ;
+	background-color: #212F3C;
+	padding: 30px;
+	color: white;
+}
+footer u{
+	color: #BDC3C7;
+}
+
+
+
+
+
