@@ -1,23 +1,25 @@
 .gdi{
-background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
-	background-size:cover;
-	background-position : center;
-	padding: 279px;
-	
+    background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
+    background-size:cover;
+    background-position : center;
+    padding: 206px;
+
+
+    
 }
 .gdia{
-background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
-	background-size: cover;
+    background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
+    background-size: cover;
     background-position: center;
-    padding: 279px;
-    height: 137px;
+    padding: 230px;
+    height: 235px;
 
 }
 
 
 .gdib{
-background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
-	background-size: cover;
+    background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
+    background-size: cover;
     background-position: center;
     padding: 279px;
     height: 137px;
@@ -26,34 +28,34 @@ background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stran
 
 
 .gdic{
-background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
-	background-size: cover;
+    background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
+    background-size: cover;
     background-position: center;
-    padding: 279px;
-    height: 137px;
+    padding: 259px;
+    height: 177px;
 
 }
 
 .gdid{
-background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
-	background-size: cover;
+    background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
+    background-size: cover;
     background-position: center;
-    padding: 279px;
-    height: 137px;
+    padding: 275px;
+    height: 145px;
 
 }
 
  *{
-padding: 0;
-margin: 0;
+    padding: 0;
+    margin: 0;
 }
 
 .gdie{
-background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
-	background-size: cover;
+    background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stranded-on-a-Deserted-Island-What-4-Ite-15490-8661b483e3-1516247705.jpg'); 
+    background-size: cover;
     background-position: center;
-    padding: 279px;
-    height: 137px;
+    padding: 236px;
+    height: 138px;
 
 }
 
@@ -61,31 +63,123 @@ background-image:url('https://media.30seconds.com/tip/lg/Youre-About-to-Be-Stran
 
 
 h1{
-	text-align: center;
-	position: relative ;
-	top: -230px
-	
+    text-align: center;
+    position: relative ;
+    top: -145px;
+    font-size: 50px;
+    font-family: 'Grenze Gotisch', cursive;
 
+    
+
+}
+
+h2{
+    text-align: center;
+    position: relative;
+    top: -175px;
+    font-size: 50px;
+    font-family: 'Grenze Gotisch', cursive;
+
+}
+
+h3{
+    text-align: center;
+    position: relative;
+    top: -230px;
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 50px;
+}
+
+h4{
+    text-align: center;
+    position: relative;
+    top: -230px;
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 50px;
+    top: -200px;
+}
+
+h5{
+    text-align: center;
+    position: relative;
+    top: -230px;
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 50px;
+
+}
+h6{
+    text-align: center;
+    position: relative;
+    top: -230px;
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 50px;
 }
 
 
 #gdi1{
-	text-align: center;
-	position: relative ;
-	top: 100px
+    text-align: center;
+    position: relative;
+    top: 60px;
+    font-size: 24px;
+    font-family: 'Fondamento', cursive;
+    color: black;
 }
 
 
 #gdi2{
-	text-aslign: center;
-	position: relative ;
-	top: 150px
+    text-align: center;
+    position: relative;
+    top: 100px;
+    font-size: 18px;
+    font-family: 'Fondamento', cursive;
 }
 
+#gdia1{
+    text-align: center;
+    position: relative ;
+    top: -60px;
+    font-size: 24px;
+    font-family: 'Fondamento', cursive;
+}
+#gdib1{
+    text-align: center;
+    position: relative;
+    top: -25px;
+    font-size: 24px;
+    font-family: 'Fondamento', cursive;
+}
+
+#gdic1{
+
+    text-align: center;
+    position: relative ;
+   
+        top: -105px;
+    font-size: 24px;
+    font-family: 'Fondamento', cursive;
+}
+
+
+#gdid1{
+    text-align: center;
+    position: relative ;
+    
+    top: -20px;
+    font-size: 24px;
+    font-family: 'Fondamento', cursive;
+}
+
+#gdie1{
+    text-align: center;
+    position: relative ;
+    top: 0px;
+    font-size: 24px;
+    font-family: 'Fondamento', cursive;
+}
 #btn{
     position: relative;
-    top: 215px;
-    left: 353px;
+    top: 125px;
+    left: 417px;
     border: none;
     color: green;
     padding: 16px 32px;
@@ -98,13 +192,35 @@ h1{
     cursor: pointer;
 }
 #btn:hover {
- 	background-color: #4CAF50;
-	color: #83b0c3;
+    background-color: #4CAF50;
+    color: #83b0c3;
+}
+
+
+
+#btnn{
+    position: relative;
+    top: 100px;
+    left: 393px;
+    border: none;
+    color: green;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+#btnn:hover {
+    background-color: #4CAF50;
+    color: #83b0c3;
 }
 
 
 #d{position: relative;
-    top: 216px;
+        top: 60px;;
     left: 275px;
     position: relative;
     border: none;
@@ -119,16 +235,16 @@ h1{
     cursor: pointer;
 }
 #btn:hover {
- 	background-color: #4CAF50;
-	color: #83b0c3;
+    background-color: #4CAF50;
+    color: #83b0c3;
 }
 
 
 #b{
-	position: relative;
-	top: 101px;
+    position: relative;
+    top: -55px;
     left: 13%;
-  	position: relative;
+    position: relative;
     border: none;
     color: green;
     padding: 16px 32px;
@@ -141,16 +257,16 @@ h1{
     cursor: pointer;
 }
 #b:hover {
- 	background-color: #4CAF50;
-	color: #83b0c3;
+    background-color: #4CAF50;
+    color: #83b0c3;
 }
 
 
 
 #c{
     position: relative;
-    top: 99px;
-	left: 63%;
+        top: -55px;
+    left: 63%;
     position: relative;
     border: none;
     color: green;
@@ -164,8 +280,8 @@ h1{
     cursor: pointer;
 }
 #c:hover {
- 	background-color: #4CAF50;
-	color: #83b0c3;
+    background-color: #4CAF50;
+    color: #83b0c3;
 }
    }
 
@@ -182,19 +298,14 @@ h1{
   cursor: pointer;
 }
 footer{
-	font-family: 'Nunito Sans', sans-serif;
-	text-align: center;
-	border-style: solid;
-	border-color: #212F3C ;
-	background-color: #212F3C;
-	padding: 30px;
-	color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+    border-style: solid;
+    border-color: #212F3C ;
+    background-color: #212F3C;
+    padding: 30px;
+    color: white;
 }
 footer u{
-	color: #BDC3C7;
+    color: #BDC3C7;
 }
-
-
-
-
-
