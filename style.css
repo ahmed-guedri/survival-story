@@ -55,7 +55,7 @@
     background-size: cover;
     background-position: center;
     padding: 236px;
-    height: 138px;
+    height: 167px;
 
 }
 
@@ -301,10 +301,10 @@ footer{
     font-family: 'Nunito Sans', sans-serif;
     text-align: center;
     border-style: solid;
-    border-color: #212F3C ;
-    background-color: #212F3C;
-    padding: 30px;
-    color: white;
+    border-color: #88b3c6;
+    background-color: #d2e0ed;
+    padding: 15px;
+    color: #717f11;
 }
 footer u{
     color: #BDC3C7;
